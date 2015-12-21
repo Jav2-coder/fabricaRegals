@@ -14,4 +14,12 @@ public class Regal {
 	public void contarRegal(){
 		total++;
 	}
+	
+	public int getTotal(){
+		return total;
+	}
+	
+	public String getNom() {
+		return nom;
+	}
 }

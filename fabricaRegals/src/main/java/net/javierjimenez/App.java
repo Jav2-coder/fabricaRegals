@@ -21,8 +21,10 @@ BufferedReader llista = null;
 			FabricacioRegals FR = new FabricacioRegals();
 			
 			while((llistaNens = llista.readLine()) != null) {
-				
+				FR.llistarRegals(llistaNens);
 			}
+			
+			FR.fabricarRegals();
 			
 		} catch (IOException e) {
 
