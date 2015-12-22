@@ -5,15 +5,39 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * 
+ * @author Surrui
+ *
+ */
 public class FabricacioRegals {
 
+	/**
+	 * HashMap que conte tots els objectes Regal
+	 */
 	private static HashMap<String, Regal> fabricacio = new HashMap<String, Regal>();
+	
+	/**
+	 * List que conté els objectes Regal ordenats
+	 */
 	private static List<Regal> regals = new ArrayList<Regal>();
 
+	/**
+	 * Constructor de l'objecte FabricacioRegals
+	 */
 	public FabricacioRegals() {
 
 	}
 
+	/**
+	 * Metode per poder omplir un HashMap amb els
+	 * objectes Regal, els quals els creem a partir
+	 * de les dades que anem obtenint al llegir 
+	 * l'arxiu de text.
+	 * 
+	 * @param llista String que conté el contingut
+	 * del text fila a fila
+	 */
 	public void llistarRegals(String llista) {
 
 		if (llista.contains(":")) {
@@ -54,6 +78,11 @@ public class FabricacioRegals {
 		}
 	}
 
+	/**
+	 * Metode encarregat d'ordenar els objectes Regal i on
+	 * imprimim per pantalla els objectes de 5 en 5 en ordre
+	 * ascendent.
+	 */
 	public void fabricarRegals() {
 
 		for (Regal r : fabricacio.values()) {

@@ -2,8 +2,17 @@ package net.javierjimenez;
 
 import java.util.Comparator;
 
+/**
+ * 
+ * @author Surrui
+ *
+ */
 public class comparatorRegal implements Comparator<Regal> {
 
+	/**
+	 * Metode per comparar objectes Regal i 
+	 * ordenar-los de forma ascendent
+	 */
 	public int compare(Regal a, Regal b) {
 
 		int total1 = a.getTotal();
