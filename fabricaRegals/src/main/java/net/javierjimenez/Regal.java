@@ -2,8 +2,8 @@ package net.javierjimenez;
 
 public class Regal {
 
-	private static String nom;
-	private static int total;
+	private String nom;
+	private int total;
 	
 	public Regal(String n, int v){
 	
@@ -22,4 +22,11 @@ public class Regal {
 	public String getNom() {
 		return nom;
 	}
+
+	@Override
+	public String toString() {
+		return "Regal [getTotal()=" + getTotal() + ", getNom()=" + getNom() + "]";
+	}
+
+	
 }
