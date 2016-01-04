@@ -1,8 +1,8 @@
 package net.javierjimenez;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 
 /**
  * 
@@ -30,8 +30,8 @@ public class App {
 
 			String llistaNens;
 
-			llista = new BufferedReader(new FileReader(App.class.getResource(
-					NOM_FITXER).getFile()));
+			llista = new BufferedReader(
+					new InputStreamReader(App.class.getResource(NOM_FITXER).openStream()));
 
 			FabricacioRegals FR = new FabricacioRegals();
 
