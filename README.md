@@ -6,16 +6,16 @@ Per poder fer servir el programa, el document a llegir s'ha d'anomenar desitjos.
 
 Amb el primer fitxer obtenim el següent resultat:
 
-1-Mitxo[1] Estoig[141] Galetes[143] Nina morena[144] Llapissos[149] </br>
-2-Retallable[152] Cotxe elèctric[152] Sabons[153] Cadireta[154] Ràdio[159] </br>
-3-Capsa de bombons[160] Bossa de mà[160] Ordinador[161] Mòbil[162] Mocador de coll[163] </br>
-4-Cotxe[163] Llibre[163] Colònia[164] Nina rossa[164] Escacs[164] </br>
-5-Bufanda[164] Biberó[166] Manta[166] Rellotge[166] Mitxons[167] </br>
-6-Conillet rosa[167] Mitjons[168] Casa de nines[168] Gorro[168] Jersei[169] </br>
-7-Nina bebé[169] Guants[170] Disc de música[170] Torró[170] Joc de taula[171] </br>
-8-Puzzle[171] Jaqueta[171] Llibreta[172] Caramels[172] Espasa de fusta[173] </br>
-9-Calendari[175] Os de peluix[176] Ulleres de sol[179] Bicicleta[180] Tren[182] </br>
-10-Arc i fletxes[184] Cowboy[185] Corbata[185] Televisor[186] Guerrer amb espasa[192] </br>
+1-Estoig[141] Galetes[143] Nina morena[144] Llapissos[149] Retallable[152] </br>
+2-Cotxe elèctric[152] Sabons[153] Cadireta[154] Ràdio[159] Capsa de bombons[160] </br>
+3-Bossa de mà[160] Ordinador[161] Mòbil[162] Mocador de coll[163] Cotxe[163] </br>
+4-Llibre[163] Colònia[164] Nina rossa[164] Escacs[164] Bufanda[164] </br> 
+5-Biberó[166] Manta[166] Rellotge[166] Conillet rosa[167] Mitjons[168] </br> 
+6-Casa de nines[168] Mitxons[168] Gorro[168] Jersei[169] Nina bebé[169] </br> 
+7-Guants[170] Disc de música[170] Torró[170] Joc de taula[171] Puzzle[171] </br> 
+8-Jaqueta[171] Llibreta[172] Caramels[172] Espasa de fusta[173] Calendari[175] </br> 
+9-Os de peluix[176] Ulleres de sol[179] Bicicleta[180] Tren[182] Arc i fletxes[184] </br> 
+10-Cowboy[185] Corbata[185] Televisor[186] Guerrer amb espasa[192] Sabates[317] 
 
 Amb el segon fitxer obtenim el següent resultat:
 
